@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "228880268807",
+    "project_id": "comptrain-c551d",
+    "storage_bucket": "comptrain-c551d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228880268807:android:884548293f5325c1f2f4a2",
+        "android_client_info": {
+          "package_name": "com.comptrain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228880268807-sl9so4da5u0k4tbhiqc0s91s8f83ga6c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBAeXuF98U0QAJI9CXnquGVRqha2boW-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228880268807-sl9so4da5u0k4tbhiqc0s91s8f83ga6c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "228880268807-3gmsv8d0sf2li1h7ep10jl8ttimk89up.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.comptrainsport.dev"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
